@@ -1,7 +1,7 @@
 # ANSI Driver for Montezuma Micro CP/M
 
 [![Version](https://img.shields.io/badge/version-0.2-blue.svg)](https://github.com/GmEsoft/TRS80_CPM_ANSI)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-GPL3-yellow.svg)](https://opensource.org/license/gpl-3.0)
 
 An ANSI escape sequence driver for the Montezuma Micro CP/M operating system running on the TRS-80 Model 4 hardware. This driver enhances the system's video and keyboard capabilities by providing support for ANSI escape codes, enabling advanced text formatting, cursor control, and screen manipulation.
 
